@@ -1,4 +1,4 @@
-Compte Rendu du TP7 — Jeu de Taquin en C avec MLV 
+Jeu de Taquin en C avec MLV 
 
 1.Présentation générale
 
